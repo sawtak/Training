@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cake Delights</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Cake Delights</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Menu</a></li>
+                <li><a href="#">About Us</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="menu">
+        <h2>Our Delicious Cakes</h2>
+        <div class="cake">
+            <img src="cake1.jpg" alt="Chocolate Cake">
+            <h3>Chocolate Cake</h3>
+            <p>A rich and moist chocolate cake, perfect for any occasion.</p>
+            <span class="price">$20</span>
+        </div>
+        <div class="cake">
+            <img src="cake2.jpg" alt="Strawberry Cake">
+            <h3>Strawberry Cake</h3>
+            <p>Light and fluffy strawberry cake topped with fresh berries.</p>
+            <span class="price">$18</span>
+        </div>
+        <!-- Add more cake items here -->
+    </section>
+
+    <section class="about">
+        <h2>About Us</h2>
+        <p>We are passionate about baking delicious cakes that bring joy to your taste buds.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Cake Delights. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+
