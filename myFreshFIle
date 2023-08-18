@@ -23,7 +23,7 @@
         <h2>Our Delicious Cakes</h2>
         <div class="cake">
             <img src="cake1.jpg" alt="Chocolate Cake">
-            <h3>Chocolate Cake</h3>
+            <h3>Chocolate Cake new cake</h3>
             <p>A rich and moist chocolate cake, perfect for any occasion.</p>
             <span class="price">$20</span>
         </div>
